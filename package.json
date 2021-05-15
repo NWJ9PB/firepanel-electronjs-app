@@ -1,0 +1,16 @@
+{
+  "name": "testpanel2",
+  "version": "0.1.0",
+  "author": "NWJ9PB",
+  "description": "My Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^12.0.7"
+  },
+  "dependencies": {
+    "custom-electron-titlebar": "^3.2.6"
+  }
+}
